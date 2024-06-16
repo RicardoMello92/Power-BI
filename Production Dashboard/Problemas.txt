@@ -1,0 +1,25 @@
+---------------------------------------------------------
+|                   RELATÓRIO DE OCORRÊNCIAS            |
+|-------------------------------------------------------|
+| Data de Exportação: 01/02/2024                        |
+| Hora da Exportação: 14:35                             |
+| Módulo do Sistema: Gestão de Produção                 |
+| Versão do Sistema: 5.3.7                              |
+| Usuário: admin_user                                   |
+| Local da Exportação: Unidade Industrial São Paulo     |
+| ID do Relatório: RP-20240201-1435                     |
+| Período de Referência: 01/01/2024 a 31/01/2024        |
+---------------------------------------------------------
+
+
+Código de Ocorrência;Motivo;Código de Rejeição;Motivo
+1;Parada de Máquina;1;Erro de cor
+2;Falta de Operador;2;Recorte do papel
+3;Manutenção Emergencial;3;Falha de impressão
+4;Problema de Qualidade;4;Papel preso ou amassado
+5;Atraso na Entrega de Material;5;Nível de tinta baixo
+6;Outros;6;Sujeira
+;;7;Falha de alinhamento
+;;8;Erro de paginação
+;;9;Manchas no papel
+;;10;Falha de encadernação
